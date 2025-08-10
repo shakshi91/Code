@@ -1,3 +1,3 @@
 # xyz
-rock paper sizer
+Tic Tac Toe Game
 
